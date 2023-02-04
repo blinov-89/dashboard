@@ -1,6 +1,7 @@
 # dashboard
 dashboard plotly
 
+Ссылка на приложение: http://dima89.pythonanywhere.com/
 
 Use: https://dash.gallery/Portal/
 
